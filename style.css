@@ -1,0 +1,36 @@
+p{
+	color: darkblue;
+	line-height: 0.9;
+	text-align: justify;
+	margin: 20px;
+}
+
+.row{
+	display: flex;
+}
+
+.col1{
+	font-size: 30px;
+}
+
+.col2{
+	font-size: 20px;
+}
+
+
+.col3{
+	font-size: 48.5px;
+}
+
+
+.col4{
+	font-size: 50px;
+}
+
+.col5{
+	font-size: 30px;
+}
+
+.col6{
+	font-size: 70px;
+}
