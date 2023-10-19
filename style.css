@@ -1,8 +1,6 @@
 p{
-	color: darkblue;
 	line-height: 0.9;
-	text-align: justify;
-	margin: 20px;
+	margin: 15px;
 }
 
 .row{
@@ -11,26 +9,79 @@ p{
 
 .col1{
 	font-size: 30px;
+		text-align: justify;
+
 }
 
 .col2{
 	font-size: 20px;
+		text-align: justify;
+
 }
 
 
 .col3{
 	font-size: 48.5px;
+		text-align: justify;
+
 }
 
 
 .col4{
 	font-size: 50px;
+		text-align: justify;
+
 }
 
 .col5{
 	font-size: 30px;
+		text-align: justify;
+
 }
 
 .col6{
 	font-size: 70px;
+		text-align: justify;
+
 }
+
+a:link {
+	text-decoration: none;
+}
+
+a::visited{
+	color: skyblue;
+}
+
+.col1text{
+	text-align: center;
+}
+
+.col2text{
+	text-align: center;
+}
+
+.col3text{
+	text-align: center;
+}
+.col4text{
+	text-align: center;
+}
+.col5text{
+	text-align: center;
+}
+
+.col6text{
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
