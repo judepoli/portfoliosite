@@ -49,32 +49,81 @@ a:link {
 	text-decoration: none;
 }
 
-a::visited{
-	color: skyblue;
-}
+	
 
 .col1text{
 	text-align: center;
 }
 
-.col2text{
+.col1Body{
+	text-align: center;
+	color: red;
+	font-size: 50px;
+
+}
+
+.col2textHead{
+	text-align: center;
+}
+.col2textBody{
+	text-align: center;
+	font-size: 150px;
+	color: white;
+	background-color: red;
+}
+
+.col3textHead{
 	text-align: center;
 }
 
-.col3text{
+.col3textBody{
+	text-align: center;
+	color: red;
+	margin: 20px;
+}
+.col4textHead{
 	text-align: center;
 }
-.col4text{
-	text-align: center;
-}
-.col5text{
+.col4textBody{
 	text-align: center;
 }
 
-.col6text{
+.col4textBody{
+	text-align: center;
+	color: red;
+}
+
+.col4vid{
+	padding: 40px;
+}
+
+.col5textHead{
 	text-align: center;
 }
 
+.col5textBody{
+	text-align: center;
+	color: red;
+	padding: 40px;
+}
+
+.col6textHead{
+	text-align: center;
+}
+
+.col6textBody{
+	color: red;
+	text-align: center;
+	font-size: 60px;
+	margin: 300px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 20px;
+}
 
 
 
